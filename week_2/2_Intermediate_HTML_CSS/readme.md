@@ -3,7 +3,7 @@
 # U1.W2: Intermediate HTML & CSS
 
 ## Learning Competencies
-1. Identify and use web standards, semantic mark up, and HTML5
+- Identify and use web standards, semantic mark up, and HTML5
 
 
 ## Summary
@@ -37,7 +37,7 @@ Answer the questions in your [my_reflection.md](my_reflection.md) file.
 Make sure you can see all of your changes on your github.io site!
 
 
-## Optimize Your Learning!
+## Optimize Your Learning (Optional)
 #### Psuedo elements
 ##### a. Learn
 
