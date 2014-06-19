@@ -1,1 +1,35 @@
-/* include your css here */
+    #body {
+      background-color: orange;
+    }
+
+      #container {
+        margin-right: auto;
+        margin-left: auto;
+        width: 900px;
+        background-color: blue;
+      }
+      
+      #header {
+        width: 900px;
+        background-color: green;
+      }
+      
+      #navigation {
+        background-color: red;
+      }
+      
+      #content {
+        background-color: yellow;
+      }
+      #navigation {
+        text-align:center;
+        width: 900px;
+      }
+      .button {
+        width: 280px;
+        text-decoration: none;
+        float: left;
+        list-style-type: none;
+        clear: right;
+        background-color: red;
+      }      
